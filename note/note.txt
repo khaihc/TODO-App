@@ -1,0 +1,19 @@
+Install Angular : https://angular.io/cli
+  Setup primeng: https://primefaces.org/primeng/setup
+
+Material: https://material.angular.io/cdk/drag-drop/examples
+  Toast Message: https://primefaces.org/primeng/messages
+
+Bootstrap link : https://getbootstrap.com/
+
+
+
+********
+angular.json need
+  "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
+              "src/styles.scss",
+              "node_modules/primeng/resources/themes/saga-blue/theme.css",
+              "node_modules/primeng/resources/primeng.min.css",
+              "node_modules/primeicons/primeicons.css"
+            ],
